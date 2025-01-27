@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I’m Abeni - a Computer Engineering student at @UWaterloo!
 
-<!--
-**AbeniDatta/AbeniDatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently pursuing a **BASc in Computer Engineering (AI Options)**, graduating in 2027.
+- 🌱 I’m developing expertise in **machine learning**, **computer vision**, and **full-stack development**.
+- 🚀 I enjoy building **innovative projects** and exploring new tools in the tech ecosystem.
+- 🎯 I’m actively looking for opportunities to expand my skills and collaborate on exciting tech challenges.
 
-Here are some ideas to get you started:
+## 📌 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abeni-datta-363282275)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/AbeniDatta)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools I’ve Used:
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs)
+![SQL](https://img.shields.io/badge/SQL-lightblue?style=for-the-badge&logo=postgresql)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge&logo=opencv)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi)
+
+## 📊 GitHub Stats:
+![Profile Views](https://komarev.com/ghpvc/?username=AbeniDatta&style=for-the-badge)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbeniDatta&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbeniDatta&layout=compact&theme=dark)
