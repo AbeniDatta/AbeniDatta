@@ -4,7 +4,7 @@
 - 🧠 I’m deeply interested in **brain-computer interface technologies**, exploring how AI can revolutionize neurotechnology and human-computer interaction.
 - 🏋️‍♂️ I enjoy lifting **heavy** weights and staying physically fit.
 - 🚀 I look for opportunities to build innovative projects and explore new tools in the tech ecosystem.
-- 🌍 Born in **India** 🇮🇳 but raised in **Nigeria** 🇳🇬, my multicultural upbringing has shaped my global perspective and adaptability.
+- 🌍 Born in **India** 🇮🇳 but raised in **Nigeria** 🇳🇬, my multicultural upbringing has shaped my global perspective and adaptability that I'm truly grateful for.
 
 ## 📌 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abeni-datta-363282275)  
