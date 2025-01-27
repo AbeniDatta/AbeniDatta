@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Abeni - a Computer Engineering student at @UWaterloo!
 
-- 🔭 I’m currently pursuing a **BASc in Computer Engineering (AI Options)**, graduating in 2027.
-- 🌱 I’m developing expertise in **machine learning**, **computer vision**, and **full-stack development**.
-- 🚀 I enjoy building **innovative projects** and exploring new tools in the tech ecosystem.
-- 🎯 I’m actively looking for opportunities to expand my skills and collaborate on exciting tech challenges.
+- 🔭 I’m currently pursuing a **BASc in Computer Engineering (+ AI and BioMechanics Options)**.
+- 🧠 I’m deeply interested in **brain-computer interface technologies**, exploring how AI can revolutionize neurotechnology and human-computer interaction.
+- 🏋️‍♂️ I truly enjoy lifting heavy weights.
+- 🚀 I look for opportunities to build **innovative projects** and explore new tools in the tech ecosystem.
 
 ## 📌 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abeni-datta-363282275)  
