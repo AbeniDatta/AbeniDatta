@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Abeni - a 3rd year Computer Engineering student @UWaterloo!
 
-- 🔭 I’m currently pursuing a **BASc in Computer Engineering (+ AI and BioMechanics Options)**.
+- ⚙️ I’m currently pursuing a **BASc in Computer Engineering (+ AI and BioMechanics Options)**.
 - 🧠 I’m deeply interested in **brain-computer interface technologies**, exploring how AI can revolutionize neurotechnology and human-computer interaction.
 - 🏋️‍♂️ I enjoy lifting heavy weights and staying physically fit.
 - 🚀 I look for opportunities to build innovative projects and explore new tools in the tech ecosystem.
