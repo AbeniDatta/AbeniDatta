@@ -3,7 +3,7 @@
 - ⚙️ I’m currently pursuing a **BASc in Computer Engineering (+ AI and BioMechanics Options)**.
 - 🧠 I’m deeply interested in **brain-computer interface technologies**, exploring how AI/ML can revolutionize neurotechnology and human-computer interaction.
 - 🏋️‍♂️ I enjoy lifting really heavy and staying physically fit, aiming to be a professional powerlifter one day. 
-- 🚀 I look for opportunities to build innovative projects and explore new tools in the tech ecosystem.
+- 🚀 I constantly on a lookout for opportunities to build innovative projects and explore new tools in the tech ecosystem.
 - 🌍 Born in **India** 🇮🇳, raised in **Nigeria** 🇳🇬, and currently studying in **Canada** 🇨🇦; my multicultural upbringing has shaped my global perspective and adaptability that I'm truly grateful for.
 
 ## 📌 Connect with me:
