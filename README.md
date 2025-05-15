@@ -7,8 +7,7 @@
 - 🌍 Born in **India** 🇮🇳, raised in **Nigeria** 🇳🇬, and currently studying in **Canada** 🇨🇦; my multicultural upbringing has shaped my global perspective and adaptability that I'm truly grateful for.
 
 ## 📌 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abeni-datta-363282275)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/AbeniDatta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abeni-datta-363282275) [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/AbeniDatta)
 
 ## 🛠️ Languages and Tools I’ve Used:
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
