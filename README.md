@@ -4,7 +4,7 @@
 - 💎 I'm deeply passionate about all things **AI/ML** and want to actively explore the potential that this field carries. 
 - 🧠 I’m also highly fascinated by the world of **brain-computer interface technologies**.
 - 🏋️‍♂️ I enjoy lifting really heavy and staying physically fit, aiming to be a professional powerlifter one day. 
-- 🚀 I constantly on a lookout for opportunities to build innovative projects and explore new tools in the tech ecosystem.
+- 🚀 I'm constantly on a lookout for opportunities to build innovative projects and explore new tools in the tech ecosystem.
 - 🌍 Born in **India** 🇮🇳, raised in **Nigeria** 🇳🇬, and currently studying in **Canada** 🇨🇦; my multicultural upbringing has shaped my global perspective and adaptability that I'm truly grateful for.
 
 ## 📌 Connect with me:
