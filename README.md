@@ -2,7 +2,7 @@
 
 - ⚙️ I’m currently pursuing a **BASc in Computer Engineering (+ AI and BioMechanics)**.
 - 🌍 I was born in **India** 🇮🇳, raised in **Nigeria** 🇳🇬, and currently studying in **Canada** 🇨🇦; my multicultural upbringing has shaped my global perspective and adaptability that 
-     I'm truly grateful for.
+      I'm truly grateful for.
 - ✨ I'm deeply passionate about all things **AI/ML** and want to actively explore the potential that this field carries. 
 - 🏋️‍♂️ I enjoy lifting really heavy weights and staying physically fit, aiming to be a professional powerlifter one day. 
 
