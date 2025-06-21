@@ -49,7 +49,7 @@
 ### 🎮 Game Development
 ![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
 
-### 🧰 Tools & Platforms
+### 🧰 Other Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab)
@@ -60,6 +60,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi)
 ![Figma](https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva)
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
 ![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira)
 ![ClickUp](https://img.shields.io/badge/ClickUp-purple?style=for-the-badge&logo=clickup)
 ![TestRail](https://img.shields.io/badge/TestRail-lightblue?style=for-the-badge&logo=testrail)
