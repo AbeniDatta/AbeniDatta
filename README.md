@@ -46,21 +46,18 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
 
-### 🎮 Game Development
-![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
-
 ### 🧰 Other Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/GitLab-orange?style=for-the-badge&logo=gitlab)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![CLI](https://img.shields.io/badge/CLI-181717?style=for-the-badge&logo=gnubash)
+![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
 ![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab)
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge&logo=powerbi)
 ![Figma](https://img.shields.io/badge/Figma-red?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva)
-![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
 ![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira)
 ![ClickUp](https://img.shields.io/badge/ClickUp-purple?style=for-the-badge&logo=clickup)
 ![TestRail](https://img.shields.io/badge/TestRail-lightblue?style=for-the-badge&logo=testrail)
