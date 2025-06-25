@@ -4,7 +4,7 @@
 - 🌍 I was born in **India** 🇮🇳, raised in **Nigeria** 🇳🇬, and currently studying in **Canada** 🇨🇦; my multicultural upbringing has shaped my global perspective and adaptability that 
       I'm truly grateful for.
 - ✨ I'm deeply passionate about all things **AI/ML** and want to actively explore the potential that this field carries. 
-- 🏋️‍♂️ I enjoy lifting really heavy weights and staying physically fit, aiming to be a professional powerlifter one day. 
+- 🏋️‍♂️ I enjoy lifting heavy weights and staying physically fit, aiming to be a professional powerlifter one day. 
 
 ## 📌 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abeni-datta-363282275) [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/AbeniDatta)
